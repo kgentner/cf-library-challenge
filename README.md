@@ -1,6 +1,6 @@
 # Karl Gentner
 
-##Code Fellows - Library Challenge
+## Code Fellows - Library Challenge
 For Application to Q4 JS Full-Stack Dev Accelerator
 
 This assignment can also be viewed at the following urls:
